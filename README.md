@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Structura Dashboard
 
 React + Vite frontend with a MongoDB-backed Express API.
@@ -24,3 +25,6 @@ npm run dev
 - The API stores the entire dashboard state as one MongoDB document.
 - Frontend requests go through `/api` and are proxied to the Express server in development.
 - The first login seed is created automatically if the database is empty.
+=======
+# Civilcore
+>>>>>>> d4205872c202ebe761b273f6eb15479997a10f21
